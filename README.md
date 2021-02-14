@@ -1,1 +1,3 @@
-# sharing-github
+# Predviđanje otkazivanja hotelskih rezervacija
+
+Velik problem u ugostiteljstvu predstavlja otkazivanje rezervacija čime se stvaraju slobodna mjesta koja više nitko ne stigne popuniti. U tim situacijama hotel gubi na prihodu bilo da rezervirane sobe ostaju prazne ili da se iznajmljuju po nižim cijenama. S ciljem da ipak prodaju sobu, neki hoteli dodatnim oglašavanjem prilaze problemu, no i to ima svoju cijenu. Zbog svega toga, predviđanje kad bi se otkazivanje moglo dogoditi pokazalo se kao najbolja je metoda za rješavanje spomenutih problema. Zahvaljujući podatkovnoj analizi i algoritmima strojnog učenja moguće je dobiti bolji uvid u podatke te treniranjem modela doznati koja je vjerojatnost da će sljedeća, dotad neviđena rezervacija biti otkazana. Jednom kad to znamo, možemo omogućiti rezervaciju više soba no što imamo, obzirom da jedan dio gostiju neće doći.
